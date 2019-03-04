@@ -3,3 +3,4 @@
     
     //init core library
     $init = new Core;
+?>
